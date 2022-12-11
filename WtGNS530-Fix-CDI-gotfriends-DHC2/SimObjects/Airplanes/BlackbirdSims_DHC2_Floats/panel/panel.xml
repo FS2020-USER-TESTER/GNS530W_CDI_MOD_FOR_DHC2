@@ -1,0 +1,66 @@
+<PlaneHTMLConfig>
+
+    <Instrument>
+        <Name>KMA30</Name>
+        <Electric>
+            <Simvar name="CIRCUIT ON:13" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+    <Instrument>
+        <Name>AS530</Name>
+		<NewCDIBehavior>True</NewCDIBehavior>        
+        <ComIndex>1</ComIndex>
+        <NavIndex>1</NavIndex>
+        <Electric>
+            <Simvar name="CIRCUIT ON:5" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+    <Instrument>
+        <Name>AS430</Name>
+		<NewCDIBehavior>True</NewCDIBehavior>                
+        <ComIndex>2</ComIndex>
+        <NavIndex>2</NavIndex>	
+        <Electric>
+            <Simvar name="CIRCUIT ON:5" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+    <Instrument>
+        <Name>KR87</Name>
+        <Electric>
+            <Simvar name="CIRCUIT ON:12" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+    <Instrument>
+        <Name>AS330</Name>
+        <Electric>
+            <Simvar name="CIRCUIT ON:6" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+    <Instrument>
+        <Name>KAP140</Name>
+        <Electric>
+            <Simvar name="CIRCUIT ON:14" unit="Boolean"/>
+        </Electric>
+    </Instrument>
+
+	<Instrument>
+		<Name>KX155A_1</Name>
+		<Electric> 
+            <Simvar name="CIRCUIT ON:8" unit="Boolean"/>
+		</Electric>
+	</Instrument>
+
+	<Instrument>
+		<Name>KX155A_2</Name>
+		<Electric>
+			<Simvar name="CIRCUIT ON:10" unit="Boolean"/>
+		</Electric>
+	</Instrument>
+
+
+</PlaneHTMLConfig>

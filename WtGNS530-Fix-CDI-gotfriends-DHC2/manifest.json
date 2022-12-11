@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "GNS530W FIX FOR SPLIT CDI, BASED ON GOTFRIENDS MOD",
+  "manufacturer": "Viking Air Limited, a De Havilland Canada company",
+  "creator": "JJB",
+  "package_version": "0.9.1",
+  "minimum_game_version": "1.29.29",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

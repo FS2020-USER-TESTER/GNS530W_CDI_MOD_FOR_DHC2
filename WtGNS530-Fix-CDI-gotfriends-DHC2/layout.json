@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/gotfriends-dhc2-expansion/Thumbnail.jpg",
+      "size": 48859,
+      "date": 133126664860830420
+    },
+    {
+      "path": "SimObjects/Airplanes/BlackbirdSims_DHC2_Wheels/systems.cfg",
+      "size": 125912,
+      "date": 133131122197106331
+    },
+    {
+      "path": "SimObjects/Airplanes/BlackbirdSims_DHC2_Bush/systems.cfg",
+      "size": 125912,
+      "date": 133131122197106331
+    },
+    {
+      "path": "SimObjects/Airplanes/BlackbirdSims_DHC2_Wheels/model/DHC2_Interior.XML",
+      "size": 125912,
+      "date": 133131122197106331
+    },
+    {
+      "path": "SimObjects/Airplanes/BlackbirdSims_DHC2_Wheels/panel/panel.xml",
+      "size": 125912,
+      "date": 133131122197106331
+    },
+    {
+      "path": "SimObjects/Airplanes/BlackbirdSims_DHC2_Floats/panel/panel.xml",
+      "size": 125912,
+      "date": 133131122197106331
+    }
+  ]
+}
