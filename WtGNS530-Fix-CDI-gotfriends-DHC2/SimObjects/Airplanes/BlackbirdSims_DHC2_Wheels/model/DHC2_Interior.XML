@@ -1973,6 +1973,7 @@
 					<CIRCUIT_ID>8</CIRCUIT_ID>
 					<IS_AVIONICS_ON>(A:CIRCUIT NAV ON:1, Bool)</IS_AVIONICS_ON>
 					<GPS_DRIVES_NAV_SIMVAR>0 (L:AS530_CDI_Source_1, Bool) (L:DHC2_TAB_RADIOS, bool) ?</GPS_DRIVES_NAV_SIMVAR>
+					<FLAG_GLIDE_CODE> 0 (L:AS530_CDI_Source_1, Bool) (L:DHC2_TAB_RADIOS, bool) ? if{ (A:GPS HAS GLIDEPATH, bool) } els{ (A:NAV HAS GLIDE SLOPE:1, Bool) }</FLAG_GLIDE_CODE>
 				</UseTemplate>
 				<UseTemplate Name="ASOBO_INSTRUMENT_CDI_Loc_Glide_Needles_Template">
 					<ID>1</ID>
@@ -1986,6 +1987,7 @@
 					<CIRCUIT_ID>10</CIRCUIT_ID>
 					<IS_AVIONICS_ON>(A:CIRCUIT NAV ON:2, Bool)</IS_AVIONICS_ON>
 					<GPS_DRIVES_NAV_SIMVAR>0 (L:AS430_CDI_Source_1, Bool) (L:DHC2_TAB_RADIOS, bool) ?</GPS_DRIVES_NAV_SIMVAR>
+					<FLAG_GLIDE_CODE> 0 (L:AS430_CDI_Source_1, Bool) (L:DHC2_TAB_RADIOS, bool) ? if{ (A:GPS HAS GLIDEPATH, bool) } els{ (A:NAV HAS GLIDE SLOPE:2, Bool) }</FLAG_GLIDE_CODE>
 				</UseTemplate>
 				<UseTemplate Name="ASOBO_INSTRUMENT_CDI_Loc_Glide_Needles_Template">
 					<ID>2</ID>
