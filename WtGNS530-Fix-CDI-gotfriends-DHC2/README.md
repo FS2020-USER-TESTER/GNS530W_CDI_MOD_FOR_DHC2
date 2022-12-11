@@ -5,7 +5,7 @@ This mod changes the Got Friends mod for DHC-2 to improve compatibility with WT 
 
 ## Install
 
-1. Confirm Got Friends Dhc-3-Beaver-action-pack from https://flightsim.to/file/43824/dhc-2-beaver-action-pack is installed  
+1. Confirm gotfriends-dhc2-expansion from https://flightsim.to/file/43824/dhc-2-beaver-action-pack is installed  
 2. Unzip WtGNS530-Fix-CDI-Milviz-DHC2.zip into community folder
 3. This mod is only functional while flying the Got Friends mod. Use without that mod is not recomended.
 
